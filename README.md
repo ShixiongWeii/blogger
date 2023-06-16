@@ -1,1 +1,1 @@
-# Real time blog - Node.js + React
+# Node.js + React
